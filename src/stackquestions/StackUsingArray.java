@@ -1,4 +1,5 @@
 package stackquestions;
+import java.util.*;
 
 public class StackUsingArray {
     int n;
