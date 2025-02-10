@@ -28,6 +28,5 @@ public class GCD {
         System.out.println("GCD of " + num1 + " and" + num2 + " is: " + gcd(num1,num2) );
 
 
-
     }
 }
